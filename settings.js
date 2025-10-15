@@ -5,30 +5,10 @@ const { en, es, ar, id, pt, rs} = require('./libs/idiomas/total-idiomas.js')
 
 //---------[ PROPIETARIO/OWNER ]---------
 global.owner = [
-["5214774444444", "Owner", true], 
-["5219999699999","𝕮𝖍𝖎𝖓𝖆 𝕸𝖎𝖙𝖟𝖚𝖐𝖎 - 𝕯𝖚𝖊𝖓̃𝖆 💋", true],
-["17866277409", "𝕮𝖍𝖎𝖓𝖆 𝕸𝖎𝖙𝖟𝖚𝖐𝖎 - 𝕯𝖚𝖊𝖓̃𝖆 💋", true],
-["593968585383"],
-["5217773342977"], 
-["595986505424"],
-["573008499604"], 
-["85244317462"],
-["5217441452981"],
-["5492266466080"], 
-["595986172767"], 
-["5492266613038"], 
-["85256848410"],
-["5217294888993"], 
-["5214434703586"], 
-["5214437863111"], 
-["595986172767"], 
-["595992302861"], 
-["5217441298510"], 
-["5491155983299"], 
-["5493795319022"], 
-["5217821153974"], 
-["573007487856"],
-["573012482597"]]
+["51928035988", "Owner", true], 
+["521999666666669699999","h", true],
+["1786627666666666409", "h", true],
+["5730124826666666666597"]]
 
 global.mods = []
 global.premium = []  
@@ -36,8 +16,8 @@ global.blockList = []
 
 //---------[ NOMBRE/INFO ]---------
 global.botname = "𝐍𝐨𝐯𝐚𝐁𝐨𝐭-𝐌𝐃"
-global.wm = 'Ｎ Ｏ Ｖ Ａ Ｂ Ｏ Ｔ- Ｍ Ｄ 💫'
-global.vs = '1.1.8'
+global.wm = '❤︎𓆩 𝐍𝐎𝐕𝐀𝐁𝐎𝐓-𝐌𝐃 𓆪❤︎'
+global.vs = '0.0.0'
 
 //Función beta : escribe el número que quiere que sea bot para que mande el Código de 8 digitos
 global.botNumberCode = "" //Ejemplo: +59309090909
@@ -111,28 +91,28 @@ global.imagen3 = fs.readFileSync('./media/menu3.jpg')
 global.noperfil = fs.readFileSync('./media/sinfoto.jpg')
 
 //---------[ ENLACES ]---------
-global.md = 'https://github.com/elrebelde21/NovaBot_MD'
-global.yt = 'https://www.youtube.com/@elrebelde.21'
-global.tiktok = 'https://www.tiktok.com/@elrebelde.21'
-global.fb = 'https://www.facebook.com/elrebelde21'
-global.faceb = 'https://facebook.com/groups/872989990425789/'
-global.paypal = 'https://paypal.me/OficialGD' 
+global.md = 'https://github.com/Nova-Dx/NovaBot-MD'
+global.yt = 'Hi'
+global.tiktok = 'Hi'
+global.fb = 'Hi'
+global.faceb = 'Hi'
+global.paypal = 'Hi' 
 
-global.host = 'https://chat.whatsapp.com/KGPhTIfgOzZCMNqoc3R7OW' //Infinity-host
-global.nna = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A' //Update 
-global.nna2 = 'https://whatsapp.com/channel/0029Vau57ykEwEk5CgosvU3v' //lolibot
-global.nnaa = 'https://whatsapp.com/channel/0029Vae6j714Y9loutP3Au29' //LoliBot - Test
-global.test = 'https://whatsapp.com/channel/0029Vae6j714Y9loutP3Au29' //test
-global.nn = 'https://chat.whatsapp.com/HNDVUxHphPzG3cJHIwCaX5' //LoliBot
-global.nn2 = 'https://chat.whatsapp.com/H4hxytyGvucIF1k0UAR7es' //Loli & Nova
-global.nn3 = 'https://chat.whatsapp.com/Ej5AUrpmYnJKYtEa6YMwK6' //Grupo de Colaboracion
-global.nn4 = 'https://chat.whatsapp.com/E9qJfvlLjENKAxnhII9rao' // Grupo COL 2
-global.nn5 = 'https://chat.whatsapp.com/B6vVEmV3zffHNyabOMtzSb' //Grupo COL 3
-global.nn6 = 'https://chat.whatsapp.com/Em4Byf4w5VgHObPvZQlfnM' //test
-global.nn7 = 'https://chat.whatsapp.com/FDRfhecUGrCEQswkg8FUYz' //Grupo ayuda sobre el bot
-global.nn8 = 'https://chat.whatsapp.com/IstOAq2RnBx687WhQpOYK8' //enlace lolibot
-global.multi = 'https://chat.whatsapp.com/IB9Vs7mZ03BBkH3reCU8Dw' //Grupo COL 4
-global.nna2 = 'Em4Byf4w5VgHObPvZQlfnM'
+global.host = 'https://whatsapp.com/channel/0029Vad8YK40lwgsjG7Jk70N' //Infinity-host
+global.nna = 'https://whatsapp.com/channel/0029Vad8YK40lwgsjG7Jk70N' //Update 
+global.nna2 = 'https://whatsapp.com/channel/0029Vad8YK40lwgsjG7Jk70N' //lolibot
+global.nnaa = 'https://whatsapp.com/channel/0029Vad8YK40lwgsjG7Jk70N' //LoliBot - Test
+global.test = 'https://whatsapp.com/channel/0029Vad8YK40lwgsjG7Jk70N' //test
+global.nn = 'https://whatsapp.com/channel/0029Vad8YK40lwgsjG7Jk70N' //LoliBot
+global.nn2 = 'https://whatsapp.com/channel/0029Vad8YK40lwgsjG7Jk70N' //Loli & Nova
+global.nn3 = 'https://whatsapp.com/channel/0029Vad8YK40lwgsjG7Jk70N' //Grupo de Colaboracion
+global.nn4 = 'https://whatsapp.com/channel/0029Vad8YK40lwgsjG7Jk70N' // Grupo COL 2
+global.nn5 = 'https://whatsapp.com/channel/0029Vad8YK40lwgsjG7Jk70N' //Grupo COL 3
+global.nn6 = 'https://whatsapp.com/channel/0029Vad8YK40lwgsjG7Jk70N' //test
+global.nn7 = 'https://whatsapp.com/channel/0029Vad8YK40lwgsjG7Jk70N' //Grupo ayuda sobre el bot
+global.nn8 = 'https://whatsapp.com/channel/0029Vad8YK40lwgsjG7Jk70N' //enlace lolibot
+global.multi = 'https://whatsapp.com/channel/0029Vad8YK40lwgsjG7Jk70N' //Grupo COL 4
+global.nna2 = 'https://whatsapp.com/channel/0029Vad8YK40lwgsjG7Jk70N'
 
 //---------[ INFO ]--------- 
 global.info = { wait: '*⌛ _Cargando..._ ▬▭▭▭▭▭▭*', 
