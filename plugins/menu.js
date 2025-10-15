@@ -230,51 +230,7 @@ let convertidores = `╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈�
 ┊┃ ❏ ${prefix}logos
 ┊┗━━━━━━━━━━━━━━•
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⪩`
-let menu18 = `╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⪩
-┊┏━━━━━━━━━━━━━━•
-┊┃ *🥵 ＭＥＮＵ +18 🥵*
-┊┃━━━━━━━━━━━━━━•
-┊┃ *Nota: usarlo baja tu responsabilidad*
-┊┃ *No sea pajero*
-┊┃━━━━━━━━━━━━━━•
-┊┃ ❏ ${prefix}pussy
-┊┃ ❏ ${prefix}nsfwloli
-┊┃ ❏ ${prefix}hentai
-┊┃ ❏ ${prefix}hentai2
-┊┃ ❏ ${prefix}pack
-┊┃ ❏ ${prefix}pack2
-┊┃ ❏ ${prefix}pack3
-┊┃ ❏ ${prefix}china
-┊┃ ❏ ${prefix}videoxxx
-┊┃ ❏ ${prefix}videoxxxlesbi
-┊┃ ❏ ${prefix}pornolesbianavid
-┊┃ ❏ ${prefix}videolesbixxx
-┊┃ ❏ ${prefix}porno
-┊┃ ❏ ${prefix}lewd
-┊┃ ❏ ${prefix}feed
-┊┃ ❏ ${prefix}gasm
-┊┃ ❏ ${prefix}anal	    	
-┊┃ ❏ ${prefix}holo	    	
-┊┃ ❏ ${prefix}tits	    	
-┊┃ ❏ ${prefix}kuni
-┊┃ ❏ ${prefix}kiss
-┊┃ ❏ ${prefix}erok
-┊┃ ❏ ${prefix}smug
-┊┃ ❏ ${prefix}solog
-┊┃ ❏ ${prefix}feetg
-┊┃ ❏ ${prefix}lewdk    
-┊┃ ❏ ${prefix}femdom
-┊┃ ❏ ${prefix}cuddle
-┊┃ ❏ ${prefix}eroyuri
-┊┃ ❏ ${prefix}cum	    
-┊┃ ❏ ${prefix}blowjob
-┊┃ ❏ ${prefix}holoero
-┊┃ ❏ ${prefix}erokemo
-┊┃ ❏ ${prefix}fox_girl
-┊┃ ❏ ${prefix}futanari
-┊┃ ❏ ${prefix}wallpaper	   
-┊┗━━━━━━━━━━━━━━•
-╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⪩`
+
 let menurandow = `╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⪩
 ┊┏━━━━━━━━━━━━━━•
 ┊┃ *⛩️ ＭＥＮＵ ＲＡＮＤＯＭ ⛩️*
@@ -409,6 +365,51 @@ let menuOwner = `╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⪩
 ┊┃ ❏ $ 
 ┊┃ ❏ >
 ┊┃ ❏ => 
+┊┗━━━━━━━━━━━━━━•
+╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⪩`
+let menu18 = `╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⪩
+┊┏━━━━━━━━━━━━━━•
+┊┃ * ＭＥＮＵ NSFW*
+┊┃━━━━━━━━━━━━━━•
+┊┃ *Nota: usarlo baja tu responsabilidad*
+┊┃ *No sea pajero mierda*
+┊┃━━━━━━━━━━━━━━•
+┊┃ ❏ ${prefix}pussy
+┊┃ ❏ ${prefix}nsfwloli
+┊┃ ❏ ${prefix}hentai
+┊┃ ❏ ${prefix}hentai2
+┊┃ ❏ ${prefix}pack
+┊┃ ❏ ${prefix}pack2
+┊┃ ❏ ${prefix}pack3
+┊┃ ❏ ${prefix}china
+┊┃ ❏ ${prefix}videoxxx
+┊┃ ❏ ${prefix}videoxxxlesbi
+┊┃ ❏ ${prefix}pornolesbianavid
+┊┃ ❏ ${prefix}videolesbixxx
+┊┃ ❏ ${prefix}porno
+┊┃ ❏ ${prefix}lewd
+┊┃ ❏ ${prefix}feed
+┊┃ ❏ ${prefix}gasm
+┊┃ ❏ ${prefix}anal	    	
+┊┃ ❏ ${prefix}holo	    	
+┊┃ ❏ ${prefix}tits	    	
+┊┃ ❏ ${prefix}kuni
+┊┃ ❏ ${prefix}kiss
+┊┃ ❏ ${prefix}erok
+┊┃ ❏ ${prefix}smug
+┊┃ ❏ ${prefix}solog
+┊┃ ❏ ${prefix}feetg
+┊┃ ❏ ${prefix}lewdk    
+┊┃ ❏ ${prefix}femdom
+┊┃ ❏ ${prefix}cuddle
+┊┃ ❏ ${prefix}eroyuri
+┊┃ ❏ ${prefix}cum	    
+┊┃ ❏ ${prefix}blowjob
+┊┃ ❏ ${prefix}holoero
+┊┃ ❏ ${prefix}erokemo
+┊┃ ❏ ${prefix}fox_girl
+┊┃ ❏ ${prefix}futanari
+┊┃ ❏ ${prefix}wallpaper	   
 ┊┗━━━━━━━━━━━━━━•
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⪩`
 
@@ -1020,7 +1021,7 @@ ${lenguaje.menu.text12}
 ├❥ᰰຼ ❏ ${prefix}hd
 *╰┄̸࣭࣭࣭࣭࣭ٜ۫┄࣭࣭࣭۫┄̸࣭۫┄̸࣭࣭࣭࣭࣭ٜ۫┄࣭࣭࣭۫┄̸࣭۫┄̸࣭࣭࣭࣭࣭ٜ۫┄̸࣭࣭࣭࣭࣭ٜ۫┄࣭۫* 	
 
-*╭─╮─᤻─᳒─᤻᳒᯽⃟ᰳᰬᰶ┈*⃐🥵COMANDO +18*️⃟ᬽ፝֟━*
+*╭─╮─᤻─᳒─᤻᳒᯽⃟ᰳᰬᰶ┈*⃐COMANDO NSFW*️⃟ᬽ፝֟━*
 ├❥ᰰຼ  *Activa con (antiNsfw on)*
 ├ *✧･ﾟ: *✧･ﾟ:*✧･ﾟ: *✧･ﾟ:*✧･ﾟ: *✧･ﾟ:
 ├❥ᰰຼ ❏ ${prefix}pussy
@@ -1190,7 +1191,7 @@ contextInfo:{
 forwardedNewsletterMessageInfo: { 
 newsletterJid: '120363160031023229@newsletter', 
 serverMessageId: '', 
-newsletterName: 'INFINITY-WA 💫' },
+newsletterName: 'Nova-D: 💫' },
 forwardingScore: 9999999,  
 isForwarded: true,   
 mentionedJid:[sender, numBot],  
